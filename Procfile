@@ -1,0 +1,1 @@
+web: gunicorn helloworld_projects.wsgi 
